@@ -14,7 +14,7 @@ class VowelCounter{
                 vowels++;
         }
         System.out.println("Vowels:"+vowels);
-        System.out.println("Constants:"+(input.length()-vowels));
+        System.out.println("Consonants:"+(input.length()-vowels));
        
     }
 
